@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "ulta-beauty",
+  "builds": [{ "src": "index.js", "use": "@now/node-server@canary" }],
+  "routes": [{ "src": "/.*", "dest": "index.js" }]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ulta-beauty-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Deepak Bohra",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "1.17.4",
+    "prisma-binding": "2.3.12",
+    "prisma-client-lib": "1.34.0"
+  }
+}

@@ -1,0 +1,7 @@
+#endpoint: ''endpoint: https://eu1.prisma.sh/deepak-bohra/ulta-beauty-prisma/dev
+
+datamodel: datamodel.prisma
+
+generate:
+  - generator: javascript-client
+    output: ./generated/prisma-client/
